@@ -1,0 +1,22 @@
+body 
+{
+    background-color: aqua;              
+}
+hr
+{
+    border-color: white;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    width: 5%;
+}
+img
+{
+    height: 300px;
+    width: 300px;
+
+}
+h1
+{
+    color:white;
+}
